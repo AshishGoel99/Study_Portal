@@ -1,0 +1,63 @@
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Study Portal.dll.config
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Study Portal.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Study Portal.pdb
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Antlr3.Runtime.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\EntityFramework.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\EntityFramework.SqlServer.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.Google.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Web.Infrastructure.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Newtonsoft.Json.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Owin.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Net.Http.Formatting.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Helpers.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Http.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Http.Owin.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Http.WebHost.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Mvc.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Optimization.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Razor.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.WebPages.Deployment.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.WebPages.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.WebPages.Razor.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\WebGrease.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Antlr3.Runtime.pdb
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\EntityFramework.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\EntityFramework.SqlServer.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.Google.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\Newtonsoft.Json.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Net.Http.Formatting.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Helpers.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Http.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Http.Owin.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Http.WebHost.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Mvc.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Optimization.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.Razor.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.WebPages.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.WebPages.Deployment.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\bin\System.Web.WebPages.Razor.xml
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\obj\Debug\Study Portal.csprojResolveAssemblyReference.cache
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\obj\Debug\Study Portal.dll
+G:\Dev Repo\Study Portal\Main\Source\Study Portal\Study Portal\Study Portal\obj\Debug\Study Portal.pdb
